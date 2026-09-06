@@ -8,10 +8,10 @@ it is a desktop weather application built by using Python and Tkinter.
  1. Language: Python 3.x  
  2. GUI Framework: Tkinter (standard Python library)  
  3. APIs & Data Libraries:
-      requests:For calling the OpenWeatherMap API.
-      geopy (Nominatim): Converts city names into geographic coordinates (latitude and longitude).
-      timezonefinder: Resolves timezones based on geographic coordinates.
-      pytz: Handles timezone conversion and localized time formatting.
+      1. requests:For calling the OpenWeatherMap API.
+      2. geopy (Nominatim): Converts city names into geographic coordinates (latitude and longitude).
+      3. timezonefinder: Resolves timezones based on geographic coordinates.
+      4. pytz: Handles timezone conversion and localized time formatting.
       
 
 #  Install Dependencies
